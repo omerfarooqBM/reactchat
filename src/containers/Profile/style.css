@@ -1,0 +1,29 @@
+.profile_box {
+    position: relative;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: 350px;
+}
+
+.cover_pic {
+    width: 100%;
+    height: 100%;
+}
+
+.profile_pic > img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+}
+
+.profile_pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    top: 250px;
+    left: 44%;
+    border: 4px solid #1976d2;
+}
